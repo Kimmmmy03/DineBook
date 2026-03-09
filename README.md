@@ -278,13 +278,3 @@ The app uses a consistent Italian-inspired warm color palette:
 | Text Primary | Dark Brown | `#5E3023` |
 | Text Secondary | Deep Brown | `#3E2723` |
 
-## Team Members
-
-| Name | Matric No. | Group |
-| :--- | :--- | :--- |
-| **Akmal Hakimi Bin Abd Rashid** | 52213123466 | 10 |
-| **Khairul Aqif Danial Bin Khairul Nizam** | 52213123232 | 10 |
-| **Ahmad Azri Bin Anuar** | 52213123188 | 10 |
-| **Danial Mikail Bin Md Ismail** | 52213123233 | 10 |
-
-**Submission Date:** 26 June 2025
